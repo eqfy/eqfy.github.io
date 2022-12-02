@@ -19,7 +19,6 @@ socials:
     google_scholar: "YOUR_NAME"
 
 interests:
-    - Data Intensive Systems
     - Distributed Systems
     - Data Streaming Platforms
     - Large-Scale Data Processing Platforms
