@@ -4,7 +4,7 @@ date: 2020-10-20T17:51:47+03:30
 draft: false
 headless: true
 
-full_name: "YOUR_NAME"
+full_name: "Qifan Yan"
 profile_picture: "profile.png"
 cv: "cv.pdf"
 # set to false if you don't want to show your blog
