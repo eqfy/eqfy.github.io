@@ -4,62 +4,46 @@ date: 2020-10-20T17:51:47+03:30
 draft: false
 headless: true
 
-full_name: "Qifan Yan"
-profile_picture: "profile.jpg"
+full_name: "Qifan (Eric) Yan"
+profile_picture: "profile.png"
 cv: "cv.pdf"
 # set to false if you don't want to show your blog
-blog: true
+# blog: true
 
 socials:
-    twitter: "YOUR_NAME"
-    github: "YOUR_NAME"
-    facebook: "YOUR_NAME"
-    linkedin: "YOUR_NAME"
-    twitch: "YOUR_NAME"
-    google_scholar: "YOUR_NAME"
+    # twitter: "YOUR_NAME"
+    github: "eqfy"
+    # facebook: "YOUR_NAME"
+    linkedin: "eric-yan-b61063174"
+    # twitch: "YOUR_NAME"
+    # google_scholar: "ericyan"
 
 interests:
     - Distributed Systems
-    - Data Streaming Platforms
-    - Large-Scale Data Processing Platforms
+    - Mobile Computing
+    - Systems and Machine Learning
+    - Federated Learning
 
 affiliations:
     - affiliation:
-        title: "Ph.D."
-        name: "Stanford University"
-        email: "email@cs.stanford.edu"
-    - affiliation:
-        title: "CEO & Co-Founder"
-        name: "The Coolest Startup In the World"
-        email: "email@mycoolstartup.ai"
+        title: "Undergraduate Student"
+        name: "University of British Columbia"
+        email: "ericy676[at]student.ubc.ca"
 
 academia:
     - course:
-        degree: "Ph.D."
-        institution:  "Stanford University"
-        major: "Data Systems"
-        start_date: "2021"
-    - course:
-        degree: "M.Sc."
-        institution: 'Sharif University of Technology'
-        major: 'Software Engineering'
-        start_date: '2013'
-        end_date: '2016'
-        other_info: 'graduated without first class honor, supervised by Prof. Very Cool!'
-    - course:
-        degree: "B.Sc."
-        institution: 'University of Kashan'
-        major: 'Software Engineering'
-        minor: 'Statistics'
-        start_date: '2009'
-        end_date: '2013'
-        other_info: 'graduated with first class honor, supervised by Prof.  Cool!'
+        degree: "B.Sc. Honours"
+        institution: 'University of British Columbia'
+        major: 'Computer Science, Software Engineering Option'
+        start_date: '2018'
+        end_date: '2023 (Expected)'
+        other_info: Supervised by Dr. Ivan Beschastnikh, top 5%, co-op program
 ---
 
-**Donec** sollicitudin, [ante][1] pulvinar tincidunt luctus, dolor mauris lobortis ex, id tincidunt metus risus nec ex. Curabitur magna mauris, facilisis vitae porttitor vitae, tincidunt sed mi. In at dui lectus. Integer ante arcu, vestibulum fermentum ante eu, maximus maximus quam. Curabitur placerat cursus posuere. Phasellus dui lorem, varius a augue non, eleifend accumsan mauris. Aenean varius posuere feugiat. In hac habitasse platea dictumst. Aenean quis ex quis nisl consequat fermentum in vitae nunc. Proin consectetur ac nulla in tempus. Maecenas enim nisi, pulvinar sit amet fermentum eget, ultrices vitae enim. Etiam vel sollicitudin felis.
+Hi there👋
 
+My name is Eric or Qifan (sometimes written as Qi Fan). I am a undergraduate student working with [Dr. Ivan Beschastnikh](https://www.cs.ubc.ca/~bestchai/) and [Dr. Mathias Lécuyer](http://mathias.lecuyer.me/) at the [UBC Systopia Lab](https://systopia.cs.ubc.ca/). I am broadly interested in topics in *distributed systems*, *mobile computing*, and *machine learning*. Recently, I have been working on federated learning (FL). Specifically, I try to mitigate the communication bottleneck of FL under highly heterogeneous network conditions with masking, sampling, and scheduling. Ultimately, my aim is to make personalized and private machine learning more accessible for the ordinary user by employing the latest systems designs.
 
-Donec sollicitudin, ante pulvinar tincidunt luctus, dolor mauris lobortis ex, id tincidunt metus risus nec ex. Curabitur magna mauris, facilisis vitae porttitor vitae, 
+Prior to FL, I worked with [Dr. Alexander J. Summers](https://www.cs.ubc.ca/~alexsumm/) on the verification of thread-based concurrent programs in Rust with [Prusti](https://www.pm.inf.ethz.ch/research/prusti.html). In this experience, I discovered that Rust is probably my favourite programming language. I also finished three internships in software development at Amazon, SAP, and Deloitte where I got to work on real-world production systems impacting millions of people.
 
-
-[1]: ahadsfsa.com
+Outside of computer science, I love experiencing the outdoors, playing the violin, watching anime, and trying out new strategy/simulation games. Feel free to contact me if you are interested in chatting!

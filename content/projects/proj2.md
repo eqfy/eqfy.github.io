@@ -1,9 +1,10 @@
 ---
-title: "Vestibulum: Olive Tadpole Pit Bull Terrier"
+title: "KVRaft, a Simple Key Value Store Based on the Raft Consensus Protocol"
 
-date: "2019-03-30"
+date: "2018-05-18"
 
 links:
     website: 'https://github.com/hadisinaee/avicenna'
+    alias: link_name_here
 ---
 

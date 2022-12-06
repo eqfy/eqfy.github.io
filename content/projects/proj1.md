@@ -1,5 +1,5 @@
 ---
-title: "Quisque: Lime Trout Sheepdog"
+title: "Static Analyzer for C Memory Leaks and Dangling Pointers"
 
 date: "2018-05-18"
 
