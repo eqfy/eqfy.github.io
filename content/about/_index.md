@@ -5,7 +5,7 @@ draft: false
 headless: true
 
 full_name: "Qifan (Eric) Yan"
-profile_picture: "profile.png"
+profile_picture: "glacier2022.jpg"
 cv: "cv.pdf"
 # set to false if you don't want to show your blog
 # blog: true
