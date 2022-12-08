@@ -16,7 +16,7 @@ socials:
     # facebook: "YOUR_NAME"
     linkedin: "eric-yan-b61063174"
     # twitch: "YOUR_NAME"
-    # google_scholar: "ericyan"
+    google_scholar: "citations?user=JetMvo0AAAAJ&hl=en"
 
 interests:
     - Distributed Systems
