@@ -9,7 +9,7 @@ authors:
 - Ivan Beschastnikh
 date: "2022-10-31"
 
-publication: "Submmitted to MLSys 2023"
+publication: "To Appear at MLSys 2023"
 
 links:
     pdf: https://arxiv.org/abs/2212.01523

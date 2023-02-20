@@ -11,8 +11,8 @@ default_news_icon: "file-text"
 num_news: 5
 
 news_items:
-- text: "I submitted my first paper GlueFL to MLSys 2023!"
+- text: "GlueFL accepted at MLSys 2023!"
   link: https://mlsys.org/Conferences/2023
-  extra_text: "Nov 2022"
-  date: 2022-12-05
+  extra_text: "Feb 2022"
+  date: 2022-02-17
 ---
