@@ -14,7 +14,7 @@ socials:
     # twitter: "YOUR_NAME"
     github: "eqfy"
     # facebook: "YOUR_NAME"
-    linkedin: "eric-yan-b61063174"
+    linkedin: "eqfy"
     # twitch: "YOUR_NAME"
     google_scholar: "citations?user=JetMvo0AAAAJ&hl=en"
 
