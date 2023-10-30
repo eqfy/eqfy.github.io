@@ -20,7 +20,6 @@ socials:
 
 interests:
     - Distributed Systems
-    - Mobile Computing
     - Systems and Machine Learning
     - Federated Learning
 
