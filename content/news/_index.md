@@ -11,8 +11,12 @@ default_news_icon: "file-text"
 num_news: 5
 
 news_items:
+- text: "Finished my Master of Management Dual Degree"
+  link: https://www.sauder.ubc.ca/programs/dual-degrees/bachelor-and-master-management/overview
+  extra_text: "Dec 2023"
+  date: 2023-12-15
 - text: "GlueFL accepted at MLSys 2023!"
   link: https://mlsys.org/Conferences/2023
-  extra_text: "Feb 2022"
-  date: 2022-02-17
+  extra_text: "Feb 2023"
+  date: 2023-02-17
 ---
