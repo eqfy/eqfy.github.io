@@ -7,12 +7,12 @@ authors:
 - Lanjun Wang
 - Mathias Lecuyer
 - Ivan Beschastnikh
-date: "2022-10-31"
+date: "2023-06-01"
 
-publication: "To Appear at MLSys 2023"
+publication: "MLSys 2023"
 
 links:
-    pdf: https://arxiv.org/abs/2212.01523
+    pdf: https://proceedings.mlsys.org/paper_files/paper/2023/file/3ed923f9f88108cb066c6568d3df2666-Paper-mlsys2023.pdf
     # code: https://github.com/hadisinaee/avicenna
     # slides: https://github.com/hadisinaee/avicenna
     # video: https://github.com/hadisinaee/avicenna
