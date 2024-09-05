@@ -11,6 +11,10 @@ default_news_icon: "file-text"
 num_news: 5
 
 news_items:
+- text: "Starting my Masters at UWaterloo"
+  link: https://cs.uwaterloo.ca/
+  extra_text: "Sep 2024"
+  date: 2024-09-01
 - text: "Finished my Master of Management Dual Degree"
   link: https://www.sauder.ubc.ca/programs/dual-degrees/bachelor-and-master-management/overview
   extra_text: "Dec 2023"

@@ -20,16 +20,23 @@ socials:
 
 interests:
     - Distributed Systems
+    - Networking
     - Systems and Machine Learning
     - Federated Learning
 
 affiliations:
     - affiliation:
-        title: "Student"
-        name: "University of British Columbia"
-        email: "ericy676[at]student.ubc.ca"
+        title: "Computer Science Masters Student"
+        name: "University of Waterloo"
+        email: "qfyan[at]uwaterloo.ca"
 
 academia:
+    - course:
+        degree: "Master of Mathematics"
+        institution: "University of Waterloo"
+        major: 'Compute Science'
+        start_date: "2024"
+        other_info: Supervised by Dr. Raouf Boutaba
     - course:
         degree: "B.Sc. Honours"
         institution: 'University of British Columbia'
@@ -48,8 +55,8 @@ academia:
 
 Hi there👋
 
-I am a student from the [University of British Columbia (UBC)](https://www.ubc.ca/) working with [Dr. Ivan Beschastnikh](https://www.cs.ubc.ca/~bestchai/) and [Dr. Mathias Lécuyer](http://mathias.lecuyer.me/) at the [UBC Systopia Lab](https://systopia.cs.ubc.ca/). I am broadly interested in topics in *distributed systems*, *mobile computing*, and *machine learning*. Recently, I have been working on federated learning (FL). Specifically, I try to mitigate the communication bottleneck of FL under highly heterogeneous network conditions with masking, sampling, and scheduling. Ultimately, my aim is to make personalized and private machine learning more accessible for the ordinary user by employing the latest systems designs.
+I am currently a master's student under the supervision of [Dr. Raouf Boutaba](https://rboutaba.cs.uwaterloo.ca/index.html) at the [University of Waterloo](https://cs.uwaterloo.ca/). I am broadly interested in distributed systems, networking, and machine learning (specifically federated learning). Previously, I completed my undergraduate honors thesis with [Dr. Ivan Beschastnikh](https://www.cs.ubc.ca/~bestchai/) at the [University of British Columbia (UBC)](https://www.cs.ubc.ca/)'s [Systopia Lab](https://systopia.cs.ubc.ca/). We explored cool ways of addressing the communication bottleneck in cross-device federated learning with techniques like update compression, client sampling, and scheduling. Furthermore, I have industry experience at Amazon, SAP, and Deloitte, where I worked on software and business development projects. Ultimately, I want to design and build novel systems to make machine learning more accessible to the general public.
 
-Prior to FL, I worked with [Dr. Alexander J. Summers](https://www.cs.ubc.ca/~alexsumm/) on the verification of thread-based concurrent programs in Rust with [Prusti](https://www.pm.inf.ethz.ch/research/prusti.html). I also finished three internships in software development at Amazon, SAP, and Deloitte where I got to work on real-world production systems impacting millions of people.
+Outside of computer science, I graduated from UBC's [Master of Management Dual Degree Program](https://www.sauder.ubc.ca/programs/dual-degrees/bachelor-and-master-management/overview), where I got to take some eye-opening business courses and interact with many interesting people in other fields. I also love experiencing the outdoors and trying new strategy/simulation/RPG games. A recent hike I enjoyed tremendously is [Stawamus Chief](https://bcparks.ca/stawamus-chief-park/) in Squamish, BC, Canada. A recent game I had a lot of fun with is [Unicorn Overlord](https://unicornoverlord.atlus.com/index.html?lang=en).
 
-Outside of computer science, I am in the [Master of Management Dual Degree Program](https://www.sauder.ubc.ca/programs/dual-degrees/bachelor-and-master-management/overview) where I get to take some cool business courses and interact with many interesting people in other fields. I also love experiencing the outdoors, playing the violin, watching anime, and trying out new strategy/simulation games. Feel free to contact me if you are interested in chatting!
+Feel free to contact me if you are interested in chatting!
