@@ -11,6 +11,10 @@ default_news_icon: "file-text"
 num_news: 5
 
 news_items:
+- text: "FedFetch accepted at IEEE INFOCOM 2025!"
+  link: https://infocom2025.ieee-infocom.org/
+  extra_text: "Dec 2024"
+  date: 2024-12-06
 - text: "Starting my Masters at UWaterloo"
   link: https://cs.uwaterloo.ca/
   extra_text: "Sep 2024"
