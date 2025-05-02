@@ -13,7 +13,7 @@ publication: "MLSys 2023"
 
 links:
     pdf: https://arxiv.org/abs/2212.01523
-    # code: https://github.com/hadisinaee/avicenna
+    code: https://github.com/TCtower/GlueFL
     # slides: https://github.com/hadisinaee/avicenna
     # video: https://github.com/hadisinaee/avicenna
 

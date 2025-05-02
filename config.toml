@@ -13,7 +13,7 @@ theme = "avicenna"
 title = "Qifan Yan's Web page"
 
 # number of posts to show on the blog page
-paginate = 10
+pagination.pagerSize = 10
 
 [markup]
 [markup.tableOfContents]

@@ -11,6 +11,10 @@ default_news_icon: "file-text"
 num_news: 5
 
 news_items:
+- text: "Received the CGS-M scholarship!"
+  link: https://www.nserc-crsng.gc.ca/Students-Etudiants/PG-CS/cgrsm-besrm_eng.asp
+  extra_text: "Apr 2025"
+  date: 2025-04-01
 - text: "FedFetch accepted at IEEE INFOCOM 2025!"
   link: https://infocom2025.ieee-infocom.org/
   extra_text: "Dec 2024"
